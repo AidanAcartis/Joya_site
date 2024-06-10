@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Casquette coton délavé Amour",
+      "image": "img/accessoires_images/casquette-coton-delave-amour-.jpg",
+      "price": 15.00,
+      "rating": 1
+    },
+    {
+        "name": "ceinture-boucle-doree",
+        "image": "img/accessoires_images/ceinture-boucle-doree-a-l-ancienne-.jpg",
+        "price": 15.00,
+        "rating": 2
+    },
+    {
+        "name": "ceinture-boucle-doree-fine",
+        "image": "img/accessoires_images/ceinture-boucle-doree-fine-.jpg",
+        "price": 15.00,
+        "rating": 3
+    },
+    {
+        "name": "ceinture-dore-en-corde",
+        "image": "img/accessoires_images/ceinture-dore-en-corde-.jpg",
+        "price": 15.00,
+        "rating": 4
+    },
+    {
+        "name": "ceinture-doree-tressee",
+        "image": "img/accessoires_images/ceinture-doree-tressee.jpg",
+        "price": 15.00,
+        "rating": 5
+    }
+
+]
+  
