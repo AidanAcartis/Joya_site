@@ -1,0 +1,40 @@
+[
+    {
+      "name": "boucles-carre-martele",
+      "image": "img/boucles-carre-martele-.jpg",
+      "price": 19.00,
+      "rating": 1
+    },
+    {
+        "name": "boucles-d-oreilles-demi-soleil-dore-et-noir",
+        "image": "img/boucles-d-oreilles-demi-soleil-dore-et-noir-.jpg",
+        "price": 19.00,
+        "rating": 2
+    },
+    {
+        "name": "boucles-d-oreilles-forme-goutte-d-eau-dorees",
+        "image": "img/boucles-d-oreilles-forme-goutte-d-eau-dorees.jpg",
+        "price": 19.00,
+        "rating": 3
+    },
+    {
+        "name": "boucles-d-oreilles-pendantes-demi-soleil",
+        "image": "img/boucles-d-oreilles-pendantes-demi-soleil-.jpg",
+        "price": 19.00,
+        "rating": 4
+    },
+    {
+        "name": "boucles-d-oreilles-pendantes-dorees-.jpg",
+        "image": "img/boucles-d-oreilles-pendantes-dorees-.jpg",
+        "price": 19.00,
+        "rating": 5
+    },
+    {
+        "name": "boucles-soleil",
+        "image": "img/boucles-soleil-.jpg",
+        "price": 25.00,
+        "rating": 6
+    }
+
+]
+  
