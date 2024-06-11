@@ -1,0 +1,16 @@
+{
+  "name": "display-cards",
+  "version": "1.0.0",
+  "description": "Display Cards from JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,184 @@
+[
+    {
+      "name": "boucles-carre-martele",
+      "image": "img/2-1.jpg",
+      "price": 19.00,
+      "rating": 1
+    },
+    {
+        "name": "boucles-d-oreilles-demi-soleil-dore-et-noir",
+        "image": "img/2-2.jpg",
+        "price": 19.00,
+        "rating": 2
+    },
+    {
+        "name": "boucles-d-oreilles-forme-goutte-d-eau-dorees",
+        "image": "img/2-3.jpg",
+        "price": 19.00,
+        "rating": 3
+    },
+    {
+        "name": "baskets-cl11-a-scratch-dores-arriere-bleu-metallise",
+        "image": "img/baskets-cl11-a-scratch-dores-arriere-bleu-metallise-.jpg",
+        "price": 19.00,
+        "rating": 4
+    },
+    {
+        "name": "baskets-cl11-blanche-et-or-motif-leopard",
+        "image": "img/baskets-cl11-blanche-et-or-motif-leopard.jpg",
+        "price": 19.00,
+        "rating": 5
+    },
+    {
+        "name": "baskets-cl11-glitter-or-arriere-terra-cotta",
+        "image": "img/baskets-cl11-glitter-or-arriere-terra-cotta-.jpg",
+        "price": 25.00,
+        "rating": 6
+    },
+    {
+        "name": "baskets-cl11-glitter-or-et-scratch-or",
+        "image": "img/baskets-cl11-glitter-or-et-scratch-or-.jpg",
+        "price": 19.00,
+        "rating": 1
+      },
+      {
+          "name": "baskets-cl11-montantes-blanches-motif-leopard",
+          "image": "img/baskets-cl11-montantes-blanches-motif-leopard.jpg",
+          "price": 19.00,
+          "rating": 2
+      },
+      {
+          "name": "baskets-cl11-montantes-blanches-motif-leopard",
+          "image": "img/baskets-cl11-montantes-blanches-motif-leopard.jpg",
+          "price": 19.00,
+          "rating": 3
+      },
+      {
+          "name": "baskets-cl11-vert-olive",
+          "image": "img/baskets-cl11-vert-olive-.jpg",
+          "price": 19.00,
+          "rating": 4
+      },
+      {
+          "name": "baskets-pepe-jeans-en-toile-semelle-compensee-en-corde",
+          "image": "img/baskets-pepe-jeans-en-toile-semelle-compensee-en-corde.jpg",
+          "price": 19.00,
+          "rating": 5
+      },
+      {
+          "name": "baskets-pepe-jeans-rose-et-python",
+          "image": "img/baskets-pepe-jeans-rose-et-python-.jpg",
+          "price": 25.00,
+          "rating": 6
+      },
+      {
+        "name": "baskets-victoria-beige-vert-d-eau-et-arriere-rose-.jpg",
+        "image": "img/baskets-victoria-beige-vert-d-eau-et-arriere-rose-.jpg",
+        "price": 19.00,
+        "rating": 1
+      },
+      {
+          "name": "baskets-victoria-gris-rose-et-arriere-jaune-fluo",
+          "image": "img/baskets-victoria-gris-rose-et-arriere-jaune-fluo.jpg",
+          "price": 19.00,
+          "rating": 2
+      },
+      {
+          "name": "baskets-victoria-vert-d-eau-semelle-orange.jpg",
+          "image": "img/baskets-victoria-vert-d-eau-semelle-orange.jpg",
+          "price": 19.00,
+          "rating": 3
+      },
+      {
+          "name": "boucles-d-oreilles-pendantes-demi-soleil",
+          "image": "img/sandales-mi-mai-capri-noir-.jpg",
+          "price": 19.00,
+          "rating": 4
+      },
+      {
+          "name": "mocassins-mi-mai-cuir-mat-",
+          "image": "img/mocassins-mi-mai-cuir-mat-.jpg",
+          "price": 19.00,
+          "rating": 5
+      },
+      {
+          "name": "mocassins-mi-mai-noirs-brillants",
+          "image": "img/mocassins-mi-mai-noirs-brillants.jpg",
+          "price": 25.00,
+          "rating": 6
+      },
+      {
+        "name": "sandale-en-raphia-camel-",
+        "image": "img/sandale-en-raphia-camel-.jpg",
+        "price": 19.00,
+        "rating": 1
+      },
+      {
+          "name": "sandales-a-talon-dorees",
+          "image": "img/sandales-a-talon-dorees.jpg",
+          "price": 19.00,
+          "rating": 2
+      },
+      {
+          "name": "boucles-d-oreilles-forme-goutte-d-eau-dorees",
+          "image": "img/sandales-a-talon-dorees_002.jpg",
+          "price": 19.00,
+          "rating": 3
+      },
+      {
+          "name": "sandales-a-talon-dorees_002",
+          "image": "img/sandales-a-talon-dorees_002.jpg",
+          "price": 19.00,
+          "rating": 4
+      },
+      {
+          "name": "boucles-d-oreilles-pendantes-dorees-.jpg",
+          "image": "img/sandales-a-talon-dorees_003.jpg",
+          "price": 19.00,
+          "rating": 5
+      },
+      {
+          "name": "boucles-soleil",
+          "image": "img/sandales-a-talon-dorees_004.jpg",
+          "price": 25.00,
+          "rating": 6
+      },
+      {
+        "name": "boucles-carre-martele",
+        "image": "img/sandales-mi-mai-capri-noir-.jpg",
+        "price": 19.00,
+        "rating": 1
+      },
+      {
+          "name": "boucles-d-oreilles-demi-soleil-dore-et-noir",
+          "image": "img/sandales-a-talon-dorees_005.jpg",
+          "price": 19.00,
+          "rating": 2
+      },
+      {
+          "name": "semerdjian-mule-rose",
+          "image": "img/semerdjian-mule-rose-.jpg",
+          "price": 19.00,
+          "rating": 3
+      },
+      {
+          "name": "semerdjian-mule-rose-a-talon",
+          "image": "img/semerdjian-mule-rose-a-talon-.jpg",
+          "price": 19.00,
+          "rating": 4
+      },
+      {
+          "name": "semerdjian-mule-verte-a-talon.jpg",
+          "image": "img/semerdjian-mule-verte-a-talon.jpg",
+          "price": 19.00,
+          "rating": 5
+      },
+      {
+          "name": "semerdjian-sandales-en-corde-.jpg",
+          "image": "img/semerdjian-sandales-en-corde-.jpg",
+          "price": 25.00,
+          "rating": 6
+      }  
+  
+]
+  

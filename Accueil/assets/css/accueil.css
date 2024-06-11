@@ -681,3 +681,12 @@ footer{
 @media  (max-width: 1000px) {
       
 }
+.details div{
+    padding: 2vh 0.5vw;
+}
+.details div a{
+    font-size: 20px;
+    font-family: Amatic SC;
+    text-transform: uppercase;
+    color: #474747;
+}
