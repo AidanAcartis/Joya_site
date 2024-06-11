@@ -1,0 +1,142 @@
+.search{
+    width: 80%;
+    align-items: center;
+    position: relative;
+}
+.search #check-search{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    display: none;
+}
+.search form{
+    width: 290px;
+    border: 1px solid #e6e6e6;
+    margin: auto 0;
+    padding: 8px 5px;
+    display: flex;  
+}
+.search input{
+    border: none;
+    outline: none;
+    font-family: Open Sans Condensed;
+}
+.search input[type="text"]{
+    width: 95%;
+    font-size: 15px;
+}
+.search button{
+    border: none;
+    background-color: transparent;
+}
+.for_user{
+    width: 100%;
+    justify-content: right;
+    align-items: center;
+    display: flex;
+    font-size: 13px;
+    margin-right: auto;
+    font-family: Open Sans Condensed;
+}
+.account{
+    padding: 10px;
+    position: relative;
+}
+.account:hover a{
+    color: #d5959e;
+}
+.account:hover .liste_contenu{
+    display: block;
+}
+.account a{
+    color: #b1b1b1;
+    text-decoration: none;
+    text-transform:uppercase;
+    display: flex;
+    align-items: center;
+}
+.account > a span{
+    margin: auto 2px;
+}
+.account .liste_contenu{
+    position: absolute;
+    border: 1px solid #e6e6e6;
+    width: 150px;
+    top: 110%;
+    left: -50px;
+    display: none;
+    background-color: #fff;
+    animation: anim 0.4s 0s forwards ease-out;
+}
+.account .liste_contenu ul{
+    padding: 0;
+}
+.account .liste_contenu li{
+    padding: 10px 5px;
+    display: flex;
+    align-items: center;
+    color: #b1b1b1;
+    list-style: none;
+    border-bottom: 1px solid #e6e6e6;
+}
+.account .liste_contenu li:hover{
+    color: #d5959e;
+    background-color: #f1f1f1;
+}
+.account .liste_contenu li svg{
+    margin: auto 8px;
+}
+.basket{
+    display: flex;
+    align-items: center;
+}
+
+.ttle_basket{
+    color: #b1b1b1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    text-transform:uppercase;
+}
+.ttle_basket:hover{
+    color: #d5959e;
+}
+.ttle_basket span{
+    padding: 3px;
+}
+.nb_in_basket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border: 2px solid;
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    display: inline-block;
+}
+
+.card h2 {
+    margin-top: 0;
+}
+
+.card p {
+    margin-bottom: 0;
+}
+.produits{
+    width: 20px;
+}
+
+.paquet-produits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Trois colonnes */
+    gap: 20px; /* Espace entre les produits */
+}

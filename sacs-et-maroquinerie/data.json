@@ -1,0 +1,16 @@
+[
+    {
+      "name": "sac-en-cuir-dore",
+      "image": "img/sac-en-cuir-dore-.jpg",
+      "price": 45.00,
+      "rating": 1
+    },
+    {
+        "name": "sac-pochette",
+        "image": "img/sac-pochette.jpg",
+        "price": 55.00,
+        "rating": 2
+    }
+
+]
+  
